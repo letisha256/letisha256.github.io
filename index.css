@@ -37,3 +37,9 @@ article>ul {
     padding: 0;
     margin: 0;
 }
+
+#cutiepie {
+    width: 6rem;
+    float: right;
+    border-radius: 1rem;
+}
